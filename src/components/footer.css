@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+.footer{
+  display: flex;
+  
+  position: fixed;
+   bottom: 0;
+   width: 80%;
+   height: 30px;   /* Height of the footer */
+   background-color: #f0f5f5;
+   padding: 0.9em 0  0 33em;
+
+  
+}
